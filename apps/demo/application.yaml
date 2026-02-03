@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: file:///home/ubuntu/gitops-repo.git
+    repoURL: git@github.com:benbahri/demo-gitops.git
     targetRevision: main
     path: manifests/demo
 
