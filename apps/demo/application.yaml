@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: git@github.com:benbahri/demo-gitops.git
-    targetRevision: main
+    targetRevision: master
     path: manifests/demo
 
   destination:
